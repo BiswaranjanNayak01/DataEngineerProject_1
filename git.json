@@ -1,0 +1,52 @@
+[
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Calendar.csv",
+    "p_sink_folder": "Calendar",
+    "p_file_name": "Calendar_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Customers.csv",
+    "p_sink_folder": "Customers",
+    "p_file_name": "Customers_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Product_Categories.csv",
+    "p_sink_folder": "Product_Categories",
+    "p_file_name": "Product_Categories_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Product_Subcategories.csv",
+    "p_sink_folder": "Product_Subcategories",
+    "p_file_name": "Product_Subcategories_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Products.csv",
+    "p_sink_folder": "Products",
+    "p_file_name": "Products_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Returns.csv",
+    "p_sink_folder": "Returns",
+    "p_file_name": "Returns_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Sales_2015.csv",
+    "p_sink_folder": "Sales_2015",
+    "p_file_name": "Sales_2015_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Sales_2016.csv",
+    "p_sink_folder": "Sales_2016",
+    "p_file_name": "Sales_2016_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Sales_2017.csv",
+    "p_sink_folder": "Sales_2017",
+    "p_file_name": "Sales_2017_dyna.csv"
+  },
+  {
+    "p_rel_url": "BiswaranjanNayak01/DataEngineerProject_1/refs/heads/main/Biswa_AdventureWorksData/AdventureWorks_Territories.csv",
+    "p_sink_folder": "Territories",
+    "p_file_name": "Territories_dyna.csv"
+  }
+]
